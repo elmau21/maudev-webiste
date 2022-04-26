@@ -13,11 +13,9 @@ const Hero = () => {
             <h2 className='text-4xl sm:text-7xl font-bold text-[#8892b0]'>I'm a 
             <span className='text-4xl sm:text-7xl font-bold text-green-400 px-2'>Full Stack</span> Developer and Data Engineer
             </h2>
-            <p className='text-[#8892b0] py-4 max-w-[700px]'>I'm a 18 years old full stack developer, I am passionate about building 
-            excellent software that improves the conditions of life, 
+            <p className='text-[#8892b0] py-4 max-w-[700px]'>I'm a 18 years old full stack developer,
             improving the attractive user interface and design that all users dream of having so that the software 
             designed is as expected in a way that everyone is happy.</p>
-            <p className='text-[#8892b0] py-4 max-w-[700px]'>You can check out all my job in my Github by clicking the button below!</p>
             <div>
                 <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-400 hover:border-pink-400'>
                 <a href={CV}>Download my CV</a>
